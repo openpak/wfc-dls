@@ -11,6 +11,7 @@ github.com/petermattis/goid
 ## explicit; go 1.25.0
 openpak/wfc-common/common
 openpak/wfc-common/dwc
+openpak/wfc-common/httplog
 openpak/wfc-common/logging
 openpak/wfc-common/service
 # openpak/wfc-common => ../wfc-common
